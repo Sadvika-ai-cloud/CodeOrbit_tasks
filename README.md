@@ -10,7 +10,6 @@ This repository contains my work for the one-month internship at **Code Orbit**.
 | 1 | Rule-Based Chatbot | ✅ Completed |
 | 2 | Coming soon | ⏳ Pending |
 | 3 | Coming soon | ⏳ Pending |
-| 4 | Coming soon | ⏳ Pending |
 
 ---
 
